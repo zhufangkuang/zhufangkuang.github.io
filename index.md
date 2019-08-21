@@ -34,7 +34,7 @@ Email: <A HREF="mailto:zfkuangcn@csuft.edu.cn">zfkuangcn@csuft.edu.cn</A><br>
 
 <!--
 <p> 
-<h2>最新消息</h2>
+<h2>最新研究动态：</h2>
 <hr />
 <ul>
 <b>
@@ -182,6 +182,15 @@ Email: <A HREF="mailto:zfkuangcn@csuft.edu.cn">zfkuangcn@csuft.edu.cn</A><br>
 <br />
 </p>
 
+<p> 
+<h2>更多信息请参考</h2>
+<hr/>
+<p style="line-height: 21px;"><span lang="EN-US"><a href="http://zhufangkuang.github.io "><em><span style="font-family: times new roman,serif; font-size: 16px;"><span style="color: rgb(5, 99, 193);">http://zhufangkuang.github.io </span></span></em></a></span><span style="font-family: 仿宋; font-size: 16px;"></span></p>
+<p style="line-height: 21px;"><span lang="EN-US"><a href="http://www.scholat.com/zfkuang"><em><span style="font-family: times new roman,serif; font-size: 16px;"><span style="color: rgb(5, 99, 193);">http://www.scholat.com/zfkuang</span></span></em></a></span><span style="font-family: 仿宋; font-size: 16px;">学者网</span></p>
+<p style="line-height: 21px;"><span lang="EN-US"><a href="http://jsj.csuft.edu.cn/szdw_1327/jsfc/201906/t20190611_92622.html "><em><span style="font-family: times new roman,serif; font-size: 16px;"><span style="color: rgb(5, 99, 193);">http://jsj.csuft.edu.cn/szdw_1327/jsfc/201906/t20190611_92622.html </span></span></em></a></span><span style="font-family: 仿宋; font-size: 16px;">中南林业科技大学网站</span></p>
+
+<br />
+</p>
 <!-- </div> -->
 
 <!--<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&d=yroax7AJrky0-KLzCajd8ZiwmhA3nl-DblWhxXyK0B0'></script>
