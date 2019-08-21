@@ -14,8 +14,7 @@
 <br />
 <br />
 <b> Zhufang KUANG (邝祝芳)</b><br>
-<br />
-Professor<br>
+<br />教授，工学博士，博士后，硕士生导师<br>
 <A HREF="http://jsj.csuft.edu.cn/">计算机与信息工程学院</A><br>
 <A HREF="http://www.csuft.edu.cn/">中南林业科技大学</A><br>
 <br />
@@ -108,30 +107,83 @@ Email: <A HREF="mailto:zfkuangcn@csuft.edu.cn">zfkuangcn@csuft.edu.cn</A><br>
 
  
 <p>
-<h2>Publications</A></h2>
+<h2>主要科研论文（中科院大类分区） </A></h2>
 <hr />
-Full publication list can be found <A HREF="Publications/publication-full.html">here</A>.
-</p> 
+<li> 1. Zhufang Kuang, Linfeng Li, Jie Gao, Lian Zhao, Anfeng Liu.Partial Offloading Scheduling and Power Allocation for Mobile Edge Computing Systems. IEEE Internet of Things Journal,2019, 6(4): 6774-6785.  IF: 9.515，1区，物联网领域顶级期刊</li>
+<li>2. Zhufang Kuang, Gang Liu, Gongqiang Li, Xiaoheng Deng.Energy Efficient Resource Allocation Algorithm in Energy Harvesting-Based D2D Heterogeneous Networks. IEEE Internet of Things Journal,2019,6(1): 557-567, IF: 9.515，1区，物联网领域顶级期刊</li>
+<li>3. Zhufang Kuang, Zhigang Chen, Jianping Pan, Dawood Sajjadi.Joint optimization of spectrum access and power allocation in uplink OFDMA CR-VANETs. Wireless Networks,2019, 25(1): 1-11.  CCF C 类期刊</li>
+<li>4. Linfeng Li, Zhufang Kuang, Anfeng Liu.Energy Efficient and Low Delay Partial Offloading Scheduling and Power Allocation for MEC. ICC 2019: 1-6.   CCF C 类会议</li>
+<li>5.  ZhuFang Kuang, ZhiGang Chen, GuoJun Wang and Hui Liu. A Load-balanced Multicast Routing Algorithm using Diversity Rate in CWMNs[J].Wireless Personal Communications,2017,96(3):4399-4425.(SCI&EI,IF=1.2)</li>
+<li>6.  Zhufang Kuang, Zhigang Chen.  A high reliability and low latency routing algorithm in cognitive wireless mesh networks [J]. International Journal of Communication Networks and Distributed Systems. 2017,18(1):58-82.</li>
+<li>7.  Zhufang Kuang, Gongqiang Li, Junshan Tan,Zhigang Chen. High throughput and acceptance ratio multipath routing algorithm in cognitive wireless mesh networks[J]. Future Internet 2017, 9(4):1-16. 91.</li>
+<li> 8. Zhufang Kuang, Guojun Wang, Zhigang Chen, Hui Liu. A distributed resource conservation multicast and spectrum allocation algorithm in cognitive wireless mesh networks [J] International Journal of Embedded Systems.2014,6(2):198-206.</li>
+<li>9. Zhigang Chen, Zhufang Kuang, Yiqing Yang, et al.Distributed routing and spectrum allocation algorithm with cooperation in cognitive wireless mesh networks[J]. International Journal of Distributed Sensor Networks. Volume 2012 (2012), Article ID 781682
+</li>
+<li>10. ZhufangKuang, ZhiGang Chen, Ming Zhao. A QoS Constraints Distributed Multicast Routing Algorithm based on Dynamic Programming in Cognitive Wireless Mesh Networks[J]. Journal of Information and Computational Science. 2011, 8(15): 3729- 3736.</li>
+
+中文期刊：
+<li>1.  邝祝芳,陈志刚,王国军,刘蕙.认知无线Mesh网络中满足QoS的高吞吐量安全路由协议[J].通信学报,2014, 35(11):69-80. 权威期刊.</li>
+<li>2.  邝祝芳,陈志刚,刘蕙. 一种认知无线Mesh网络中负载均衡的组播路由算法[J].计算机学报. 2013,36(3):521-531. 权威期刊.</li>
+<li>3.  邝祝芳,陈志刚.认知无线Mesh网络中QoS约束的组播路由及频谱分配算法[J].软件学报. 2012,23(11):3029-3044. 权威期刊.</li>
+<li>4.  邝祝芳,陈志刚,邓晓衡.自适应的认知无线Mesh网络QoS约束的路由与频谱分配算法[J].通信学报,2011,32(11):59-70. 权威期刊.</li>
+<li>5.  邝祝芳,陈志刚,王国军.CRAHNs 中干扰和能耗有效的联合功率控制路由算法仿真研究[J]. 系统仿真学报,2017, 29(7):1464-1471.</li>
+<li>6.  邝祝芳,陈志刚. CRAHNs中联合功率控制的最小中断概率路由算法[J].小型微型计算机系统. 2016, 37(10):2258-2263.</li>
+<li>7.  邝祝芳,陈志刚.认知无线Mesh网络中一种基于多目标优化的有效频谱分配算法[J].中南大学学报(自然科学版). 2013,44(6):2346-2353.</li>
+<li>8.  邝祝芳,陈志刚,赵明.认知无线Mesh网络中一种协助的分布式组播调度算法[J].小型微型计算机系统.2013.34(2):264-268.</li>
+<li>9.  邝祝芳,陈志刚.基于SNR和谱熵的协作式频谱感知算法仿真研究[J].系统仿真学报,2013,25(4): 662-667</li>
+<li>10. 邝祝芳,陈志刚,邓晓衡.延迟容忍移动传感器网络中基于社会网络的数据传输策略[J].小型微型计算机系统,2011.32(10): 1967-1970.</li>
+</p></p> 
 
 
+<p> 
+<h2> 发明专利</h2>
+<hr/>
+<li>1. 国家发明专利 发明人：邝祝芳，言杰，张立邦；专利名称：一种能量获取D2D异构网络中高吞吐量资源分配方法; 专利号：201910224870.X；中华人民共和国国家知识产权局. 申请日期：2019.3.24. 授权日期：. 分类号：H04H60/88 </li>
+<li>2. 国家发明专利 发明人：邝祝芳，李林峰，汪茄琪；专利名称：移动边缘计算中联合资任务度和功率分配方法; 申请号：201910026110.8；中华人民共和国国家知识产权局. 申请日期：2019.1.11. 授权日期：. 分类号：H04H60/88 </li>
+<li>3. 国家发明专利 发明人：邝祝芳，李林峰，陈清林；专利名称：联合能量和延迟优化的移动边缘计算任务调度方法; 申请号：201910026321.1；中华人民共和国国家知识产权局. 申请日期：2019.1.11. 授权日期：. 分类号：H04H60/88 </li>
+<li>4. 国家发明专利 发明人：邝祝芳；专利名称：一种CWMN中资源节约的分布式组播与频谱分配方法; 专利号：ZL 201210331899.6；中华人民共和国国家知识产权局. 申请日期：2012.10.15, 授权日期：2014.12.10. 分类号：H04H60/88 </li>
+<li>5.国家发明专利 发明人：邝祝芳；专利名称：一种CWMN中基于动态规划的分布式路由方法; 专利号 ZL201210416574.8；中华人民共和国国家知识产权局. 申请日期：2012.10.27, 授权日期：2015.03.25. 分类号：H04H60/88 </li>
+<li>6. 国家发明专利 发明人：陈志刚，邝祝芳；专利名称：一种认知无线 Mesh 网络中的组播路由及频谱分配方法；专利号：ZL201110163689.6；中华人民共和国国家知识产权局. （第1发明人为导师）申请日期：2011.6.17,授权日期：2013.09.11. 分类号：H04H60/88 </li>
+<li>7. 国家发明专利 发明人：陈志刚，邝祝芳；专利名称：一种认知无线Mesh网络中的最小花费组播路由方法；专利号：ZL 201210081937.7；中华人民共和国国家知识产权局.（第1发明人为导师）申请日期：2012.3.26, 授权日期：2014.11.05. 分类号：H04H60/88 </li>
+ <br />
+</p>
 
- 
+<p> 
+<h2>软件著作权</h2>
+<hr/>
+<li>1.计算机软件著作权 著作权人：邝祝芳；软件名称：国际与区域科技合作项目管理系统. 中国，登记号：2014SR113003. 中华人民共和国国家版权局 </li>
+<li>2.计算机软件著作权 著作权人：邝祝芳；软件名称：中南林业科技大学学生公寓管理系统. 中国，登记号：2014SR121793. 中华人民共和国国家版权局 </li>
+<li>3.计算机软件著作权 著作权人：邝祝芳；软件名称：退耕还林工程阶段验收管理系统. 中国，登记号：2014SR124624. 中华人民共和国国家版权局 </li>
+<li>4.计算机软件著作权 著作权人：邝祝芳；软件名称：营造林综合实绩核查管理系统. 中国，登记号：2014SR159935. 中华人民共和国国家版权局 </li>
+<li>5.计算机软件著作权 著作权人：邝祝芳；软件名称：营造林作业进度统计系统. 中国，登记号：2014SR159976. 中华人民共和国国家版权局 </li>
+<li>6.计算机软件著作权 著作权人：邝祝芳；软件名称：梯级枢纽联合调度验证软件. 中国，登记号：2016SR305888. 2016年10月25日，中华人民共和国国家版权局 </li>
+<li>7.计算机软件著作权 著作权人：邝祝芳；软件名称：森林灭火单兵定位信息系统软件. 中国，登记号：2016SR338769. 2016年11月21日，中华人民共和国国家版权局 </li>
+<li>8.计算机软件著作权 著作权人：邝祝芳，李公强，郝攀刚；软件名称：基于传感器网络的森林火灾监测软件，登记号：2017SR060266. 2017年2月28日，中华人民共和国国家版权局 </li>
+<li>9.计算机软件著作权 著作权人：邝祝芳，谭骏珊；软件名称：冰冻灾害遥感动态监测软件，登记号：2017SR514395. 2017年9月14日，中华人民共和国国家版权局  </li> 
+<br />
+</p>
 
-<p>
-<h2>Awards </h2>
-<hr />
-<ul>
-<li> Best Paper Award, The 9th International Doctoral Forum, 2016</li>
-<li> National Scholarship for Graduate Student, 2015 (Rank 1st)</li>
-<li> Excellent Certificate of Stars of Tomorrow Internship Program in MSRA, 2014</li>
-<li> First Class Scholarship for Graduate Student in Tsinghua University, 2012 (Top 5%) </li>
-</ul>
-</p> 
+<p> 
+<h2>奖励</h2>
+<hr/>
+<li>1. 2014年获湖南省青年骨干教师荣誉称号 </li>
+<li>2. 2019年获湖南省121创新人才工程第三层次人才荣誉称号 </li>
+<li>3. 2013年获湖南省教学成果三等奖，成果名称：“电气信息类创新人才培养体系的研究与实践”，P5, 证书编号：2012176 </li>
+<li>4. 2018年获中南林业科技大学“树人学者”教学名师荣誉称号 </li>
+<li>5. 2017年获中南林业科技大学“树人学者”科研新秀荣誉称号 </li>
+<li>6. 2015年获中南林业科技大学教学成果二等奖，成果名称：“电气信息类创新人才培养体系的研究与实践”，P5 </li>
+<li>7. 2015年获长沙市自然科学优秀学术成果一等奖，成果名称：“认知无线Mesh网络中满足QoS的高吞吐量安全路由协议”，P1,评奖单位：长沙市科技协会，长沙市人力资源与社会保障局 </li>
+<li>8. 2013年指导罗明（移动自组织网络路由协议性能研究）获中南林业科技大学校级优秀毕业设计 </li>
+<li>9. 2017年指导郝攀刚（冰冻灾害动态监测软件设计与开发）获中南林业科技大学校级优秀毕业设计 </li>
+<li>10. 2019年指导舒亮（基于Hadoop的lncRNA-蛋白质相互作用预测研究）获中南林业科技大学校级优秀毕业设计 </li>
+
+<br />
+</p>
 
 <!-- </div> -->
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&d=yroax7AJrky0-KLzCajd8ZiwmhA3nl-DblWhxXyK0B0'></script>
-
+<!--<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&d=yroax7AJrky0-KLzCajd8ZiwmhA3nl-DblWhxXyK0B0'></script>
+-->
 
 <!-- </body> -->
 
