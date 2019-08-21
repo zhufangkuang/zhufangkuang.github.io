@@ -1,29 +1,16 @@
 
 <html>
 <head>
-	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title>Zhufang KUANG(邝祝芳-中南林业科技大学)</title>
 </head>
 
-<!-- <body style="font-family:Calibri;margin-top:0px;"> -->
-
-
-
-<!-- <div style="width:800px;margin:0px auto auto auto;"> -->
 <table cellpadding="0" cellspacing="0" border="0" width="95%" >
 <tr>
 <td width="250px" >
 <img SRC="head.png" ALIGN="BOTTOM" BORDER="0" width="200px" >
 </td>   
-
 <td valign="top">
-<!-- <font size="6" color="red">
-<b>
-I have moved to <A HREF="http://www-en.hnu.edu.cn/">Hunan University</A> as an associate professor starting from January 2018. New home page will come soon! <br /><br />
-Temporary mail: <A HREF="mailto:1989chenguo@163.com">1989chenguo@163.com</A>
-</b>
-</font> -->
-
 <br />
 <br />
 <b> Zhufang KUANG (邝祝芳)</b><br>
@@ -38,8 +25,8 @@ Hunan University, Yuelu District, <br>
 Changsha, Hunan, China, <br>
 410082<br>
 <br />
-Work Email: <A HREF="mailto:guochen@hnu.edu.cn">guochen@hnu.edu.cn</A><br>
-Personal Email: <A HREF="mailto:1989chenguo@163.com">1989chenguo@163.com</A><br>
+Email: <A HREF="mailto:zfkuangcn@163.com">zfkuangcn@163.com</A><br>
+Email: <A HREF="mailto:zfkuangcn@csuft.edu.cn">zfkuangcn@csuft.edu.cn</A><br>
 
 <br />
 <br />
@@ -49,6 +36,7 @@ Personal Email: <A HREF="mailto:1989chenguo@163.com">1989chenguo@163.com</A><br>
 </tr>
 </table>
 
+<!--
 <p> 
 <h2>What's New?</h2>
 <hr />
@@ -60,7 +48,7 @@ Personal Email: <A HREF="mailto:1989chenguo@163.com">1989chenguo@163.com</A><br>
 </b>
 </ul>
 </p>
-
+-->
 
 
 <p> 
