@@ -54,8 +54,8 @@ Email: <A HREF="mailto:zfkuangcn@csuft.edu.cn">zfkuangcn@csuft.edu.cn</A><br>
 主持国家自科基金、中国博士后科学基金、湖南省自科青年基金，湖南省教育厅优秀青年基金，湖南省博士后科研基金，湖南省科技厅重点研发项目子课题等国家级和省部级项目7项。参与国家自科基金、948项目、湖南省自科基金、湖南省科技厅项目等5项。申请国家发明专利7项，已授权4项；出版译著1部；申请计算机软件著作权6项。在高水平国际期刊和国内一级期刊发表学术论文40余篇，SCI收录8篇，其中SCI一区(中科院)论文2篇，EI收录26篇，发表的期刊主要包括IEEE Internet of Things Journal、Wireless Networks、Wireless Personal Communications、计算机学报、软件学报、通信学报等。
 
 指导学生参加ACM国际大学生程序设计竞赛，获银牌1项，铜牌12项，指导学生参加湖南省计算机程序设计竞赛，获二等奖11项，三等奖9项。
-<br />
-<hr />
+
+
 学习工作经历
 <li> 2018.12-至今	       中南林业科技大学计算机与信息工程学院，系主任  教授</li>
 <li> 2018.6-2018.12	中南林业科技大学计算机与信息工程学院，系主任  副教授</li>
@@ -107,7 +107,7 @@ Email: <A HREF="mailto:zfkuangcn@csuft.edu.cn">zfkuangcn@csuft.edu.cn</A><br>
 
  
 <p>
-<h2>主要科研论文（中科院大类分区） </A></h2>
+<h2>主要科研论文（中科院大类分区）</h2>
 <hr />
 <li> 1. Zhufang Kuang, Linfeng Li, Jie Gao, Lian Zhao, Anfeng Liu.Partial Offloading Scheduling and Power Allocation for Mobile Edge Computing Systems. IEEE Internet of Things Journal,2019, 6(4): 6774-6785.  IF: 9.515，1区，物联网领域顶级期刊</li>
 <li>2. Zhufang Kuang, Gang Liu, Gongqiang Li, Xiaoheng Deng.Energy Efficient Resource Allocation Algorithm in Energy Harvesting-Based D2D Heterogeneous Networks. IEEE Internet of Things Journal,2019,6(1): 557-567, IF: 9.515，1区，物联网领域顶级期刊</li>
