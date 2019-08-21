@@ -121,7 +121,8 @@ Email: <A HREF="mailto:zfkuangcn@csuft.edu.cn">zfkuangcn@csuft.edu.cn</A><br>
 <li>9. Zhigang Chen, Zhufang Kuang, Yiqing Yang, et al.Distributed routing and spectrum allocation algorithm with cooperation in cognitive wireless mesh networks[J]. International Journal of Distributed Sensor Networks. Volume 2012 (2012), Article ID 781682
 </li>
 <li>10. ZhufangKuang, ZhiGang Chen, Ming Zhao. A QoS Constraints Distributed Multicast Routing Algorithm based on Dynamic Programming in Cognitive Wireless Mesh Networks[J]. Journal of Information and Computational Science. 2011, 8(15): 3729- 3736.</li>
-
+<br />
+<hr />
 中文期刊：
 <li>1.  邝祝芳,陈志刚,王国军,刘蕙.认知无线Mesh网络中满足QoS的高吞吐量安全路由协议[J].通信学报,2014, 35(11):69-80. 权威期刊.</li>
 <li>2.  邝祝芳,陈志刚,刘蕙. 一种认知无线Mesh网络中负载均衡的组播路由算法[J].计算机学报. 2013,36(3):521-531. 权威期刊.</li>
