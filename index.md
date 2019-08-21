@@ -7,14 +7,14 @@
 
 <!-- <body style="font-family:Calibri;margin-top:0px;"> -->
 
-<div style="height:100px;background:grey;margin:0px 0px 20px 0px;text-align:center;">
-<span style="color:white;font-size:60pt;line-height:100px;">Zhufang KUANG</span>
-</div>
+
 
 <!-- <div style="width:800px;margin:0px auto auto auto;"> -->
 <table cellpadding="0" cellspacing="0" border="0" width="95%" >
 <tr>
-  
+<td width="250px" >
+<img SRC="head.png" ALIGN="BOTTOM" BORDER="0" width="200px" >
+</td>   
 
 <td valign="top">
 <!-- <font size="6" color="red">
