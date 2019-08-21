@@ -1,37 +1,163 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/zhufangkuang/zhufangkuang.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Guo CHEN</title>
+</head>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<!-- <body style="font-family:Calibri;margin-top:0px;"> -->
 
-### Markdown
+<div style="height:100px;background:grey;margin:0px 0px 20px 0px;text-align:center;">
+<span style="color:white;font-size:60pt;line-height:100px;">Guo CHEN</span>
+</div>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<!-- <div style="width:800px;margin:0px auto auto auto;"> -->
+<table cellpadding="0" cellspacing="0" border="0" width="95%" >
+<tr>
+<td width="250px" >
+<img SRC="head.png" ALIGN="BOTTOM" BORDER="0" width="200px" >
+</td>   
 
-```markdown
-Syntax highlighted code block
+<td valign="top">
+<!-- <font size="6" color="red">
+<b>
+I have moved to <A HREF="http://www-en.hnu.edu.cn/">Hunan University</A> as an associate professor starting from January 2018. New home page will come soon! <br /><br />
+Temporary mail: <A HREF="mailto:1989chenguo@163.com">1989chenguo@163.com</A>
+</b>
+</font> -->
 
-# Header 1
-## Header 2
-### Header 3
+<br />
+<br />
+<b> Zhufang KUANG (邝祝芳)</b><br>
+<br />
+Professor<br>
+<A HREF="http://csee.hnu.edu.cn/">College of Computer Science and Electronic Engineering</A><br>
+<A HREF="http://www.hnu.edu.cn/">Hunan University</A><br>
+<br />
+Address: <br>
+Room 437, College of Computer Science and Electronic Engineering,<br>
+Hunan University, Yuelu District, <br>
+Changsha, Hunan, China, <br>
+410082<br>
+<br />
+Work Email: <A HREF="mailto:guochen@hnu.edu.cn">guochen@hnu.edu.cn</A><br>
+Personal Email: <A HREF="mailto:1989chenguo@163.com">1989chenguo@163.com</A><br>
 
-- Bulleted
-- List
+<br />
+<br />
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+</td> 
+</tr>
+</table>
 
-[Link](url) and ![Image](src)
-```
+<p> 
+<h2>What's New?</h2>
+<hr />
+<ul>
+<b>
+<li>Our paper "Towards Stateless RNIC for Data Center Networks" has been accepted by APNet'19!.</li> 
+<li>I was invited to serve on the TPC of the data center track at ICCCN'19.</li> 
+<li>Our paper "Dynamic TCP Initial Windows and Congestion Control Schemes through Reinforcement Learning" has been accepted by JSAC!</li>	
+</b>
+</ul>
+</p>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zhufangkuang/zhufangkuang.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+<p> 
+<h2>Self-introduction </h2>
+<hr />
+I am an Associate Professor and the Vice Dean of Department of Computer Science, at <A HREF="http://csee.hnu.edu.cn/">College of Computer Science and Electronic Engineering</A>, <A HREF="http://www.hnu.edu.cn/">Hunan University</A>. 
+<br />
+<br />
+Before I became a professor, I worked at <A HREF="https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/">Microsoft Research Asia</A> as an Associate Researcher, from 2016-2018. During my years at MSRA (started from 2014 as a research intern), I was lucky to work closely with many great researchers such as <A HREF="https://www.linkedin.com/in/kun-tan-7993b114/">Kun Tan</A> from Wireless & Networking Group,  <A HREF="https://www.microsoft.com/en-us/research/people/moscitho/">Thomas Moscibroda</A> from Cloud & Mobile Group, <A HREF="https://www.microsoft.com/en-us/research/people/lidongz/">Lidong Zhou</A> from System Group, and <A HREF="https://www.microsoft.com/en-us/research/people/yqx/">Yongqiang Xiong</A> from Networking Group.
+<br />
+I got my Ph.D. from the Department of Computer Science at <A HREF="http://www.tsinghua.edu.cn/publish/newthuen/index.html">Tsinghua University</A>, working with <A HREF="http://netman.cs.tsinghua.edu.cn/~peidan/">Dan Pei</A> and <A HREF="http://www.tsinghua.edu.cn/publish/csen/4623/2010/20101224200728346539633/20101224200728346539633_.html">Youjian Zhao</A>. I did my undergrad at <A HREF="http://en.whu.edu.cn">Wuhan University</A>.
+<br />
+<br />
+My Chinese version self-introduction is recently available on our school's site. Find it <A HREF="http://jobs.hnu.edu.cn/info/1120/1710.htm">here</A>. 
+</p>
 
-### Support or Contact
+<p> 
+<h2>Research Interest</h2>
+<hr />
+My research interests lie broadly in computer networking and networked system, with a special focus on <b>cloud networking</b> for now. If you have no idea about the cloud networking, you may refer to my <A HREF="Courses/CloudComputing2018Spring.html">course materials</A> (prepared for senior undergraduate students) which overview the current hottest cloud networking research topics. I also do research on <b>AI system</b> and <b> big data</b>.
+<br />
+<br />
+<font size="4" color="red">
+<b>
+I'm always looking for hard-working and self-motivated PhD/master/intern students who are interested in networking and system research. 
+</b>
+</font>
+</p>
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<p> 
+<h2>Non-research Interest</h2>
+<hr />
+I love to play volleyball. I served as the captain of Tsinghua University volleyball team, which won the silver medal twice in Beijing University Volleyball League in 2015 and 2014.
+<br />
+<b>
+I recently start writing some blogs <A HREF="https://1989chenguo.wordpress.com/">here</A></b> (for both technical and non-technical stuff). You are welcome to pay a visit. Currently, most of the blogs are written in Chinese.
+</p>
+
+<p> 
+<h2>Teaching</h2>
+<hr />
+Course pages can be found <A HREF="Courses/teaching.html">here</A>.
+</font>
+</p>
+
+<p> 
+<h2>Students</h2>
+<hr />
+Student/Intern pages can be found <A HREF="students.html">here</A>. I'm lucky to work with these excellent students/interns!
+</p>
+
+<p>
+<h2>Publications</A></h2>
+<hr />
+Full publication list can be found <A HREF="Publications/publication-full.html">here</A>.
+</p> 
+
+
+
+<p>
+<h2>Research Grants </h2>
+<hr />
+<ul>
+<li> NSFC (国家自然科学基金面上项目), Study on multi-path transport for hardware-based network stack in data center (面向数据中心网络的硬件协议栈多路径传输机制研究), Principal Investigator, 2019-2022</li>
+<li> Tencent, DCN routing, Principal Investigator, 2018-2020</li>
+<li> Huawei, High-performance networking stack for DCN, Principal Investigator, 2018-2019</li>
+<br />
+I am also collaborating with MSRA and IROOTECH on networking & system research projects.
+</ul>
+</p> 
+
+<p>
+<h2>Awards </h2>
+<hr />
+<ul>
+<li> Best Paper Award, The 9th International Doctoral Forum, 2016</li>
+<li> National Scholarship for Graduate Student, 2015 (Rank 1st)</li>
+<li> Excellent Certificate of Stars of Tomorrow Internship Program in MSRA, 2014</li>
+<li> First Class Scholarship for Graduate Student in Tsinghua University, 2012 (Top 5%) </li>
+</ul>
+</p> 
+
+<!-- </div> -->
+
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&d=yroax7AJrky0-KLzCajd8ZiwmhA3nl-DblWhxXyK0B0'></script>
+
+
+<!-- </body> -->
+
+</html>
+
+
+<style>
+hr{
+border: 0px;
+	border-top: 1px solid grey;
+}
+</style>
