@@ -2,7 +2,7 @@
 <html>
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>Zhufang KUANG</title>
+<title>Zhufang KUANG(邝祝芳-中南林业科技大学)</title>
 </head>
 
 <!-- <body style="font-family:Calibri;margin-top:0px;"> -->
@@ -14,9 +14,7 @@
 <!-- <div style="width:800px;margin:0px auto auto auto;"> -->
 <table cellpadding="0" cellspacing="0" border="0" width="95%" >
 <tr>
-<td width="250px" >
-<img SRC="head.png" ALIGN="BOTTOM" BORDER="0" width="200px" >
-</td>   
+  
 
 <td valign="top">
 <!-- <font size="6" color="red">
