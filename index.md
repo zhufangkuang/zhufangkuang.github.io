@@ -8,7 +8,7 @@
 <table cellpadding="0" cellspacing="0" border="0" width="95%" >
 <tr>
 <td width="250px" >
-<img SRC="head.png" ALIGN="BOTTOM" BORDER="0" width="200px" >
+<img SRC="zhufang.png" ALIGN="BOTTOM" BORDER="0" width="200px" >
 </td>   
 <td valign="top">
 <br />
