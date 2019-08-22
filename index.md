@@ -24,8 +24,8 @@ Central South University of Forestry and Technology, TianXin District, <br>
 Changsha, Hunan, China, <br>
 410004<br>
 <br />
-Email: <A HREF="mailto:zfkuangcn@163.com">zfkuangcn@163.com</A><br>
-Email: <A HREF="mailto:zfkuangcn@csuft.edu.cn">zfkuangcn@csuft.edu.cn</A><br>
+Email: <A HREF="mailto:zfkuangcn@163.com">zfkuangcn@163.com</A> 
+&nbsp;&nbsp;&nbsp;&nbsp;<A HREF="mailto:zfkuangcn@csuft.edu.cn">zfkuangcn@csuft.edu.cn</A><br>
 <br />
 <br />
 </td> 
