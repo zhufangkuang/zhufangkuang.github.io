@@ -49,7 +49,7 @@ Email: <A HREF="mailto:zfkuangcn@csuft.edu.cn">zfkuangcn@csuft.edu.cn</A><br>
 <p> 
 <h2>个人简介</h2>
 <hr />
-  邝祝芳，男，1982年4月出生，教授，工学博士，博士后，硕士生导师，计算机科学与技术系系主任、专业负责人，新一代通信网络与大数据研究中心主任，国家公派加拿大维多利亚大学访问学者，湖南省青年骨干教师，湖南省121创新人才工程第三层次人才，中南林业科技大学“树人学者”科研新秀、“树人学者”教学名师获得者。 湖南省计算机学会理事、湖南省人工智能学会理事、湖南省物联网学会理事、中国计算机学会(CCF)高级会员、CCF网络与数据通信专委会委员、CCF计算机应用专委会委员、IEEE会员、ACM会员、CCF YOCSEF长沙2018-2019副主席、中国林学会林业计算机分会理事。国家自然科学基金通讯评审专家，教育部学位与研究生教育发展中心通讯评议专家，担任多个知名国际会议IEEE ICC、IEEE GLOBECOM，及期刊IEEE Access、Computer Networks、计算机学报、通信学报等的审稿人。2007年1月入职中南林业科技大学，2009年晋升讲师，2013年晋升副教授。2018年晋升教授。 自2007年1月工作于中南林业科技大学计算机与信息工程学院。2009年晋升讲师，2013年晋升副教授。湖南省计算机学会理事，中国计算机学会(CCF)会员，CCF网络与数据通信专业委员会委员，CCF计算机应用专业委员会委员，IEEE会员，IEEE CS会员，ACM会员，CCF YOCSEF长沙副主席(2018-)。
+  邝祝芳，男，1982年4月出生，教授，工学博士，博士后，硕士生导师，计算机科学与技术系系主任、专业负责人，新一代通信网络与大数据研究中心主任，国家公派加拿大维多利亚大学访问学者，湖南省青年骨干教师，湖南省121创新人才工程第三层次人才，中南林业科技大学“树人学者”科研新秀、“树人学者”教学名师获得者。 湖南省计算机学会理事、湖南省人工智能学会理事、湖南省物联网学会理事、中国计算机学会(CCF)高级会员、CCF网络与数据通信专委会委员、CCF计算机应用专委会委员、IEEE会员、ACM会员、CCF YOCSEF长沙2018-2019副主席、中国林学会林业计算机分会理事。国家自然科学基金通讯评审专家，教育部学位与研究生教育发展中心通讯评议专家，担任多个知名国际会议IEEE ICC、IEEE GLOBECOM，及期刊IEEE Access、Computer Networks、计算机学报、通信学报等的审稿人。2007年1月入职中南林业科技大学，2009年晋升讲师，2013年晋升副教授。2018年晋升教授。 
 
 主持国家自科基金、中国博士后科学基金、湖南省自科青年基金，湖南省教育厅优秀青年基金，湖南省博士后科研基金，湖南省科技厅重点研发项目子课题等国家级和省部级项目7项。参与国家自科基金、948项目、湖南省自科基金、湖南省科技厅项目等5项。申请国家发明专利7项，已授权4项；出版译著1部；申请计算机软件著作权6项。在高水平国际期刊和国内一级期刊发表学术论文40余篇，SCI收录8篇，其中SCI一区(中科院)论文2篇，EI收录26篇，发表的期刊主要包括IEEE Internet of Things Journal、Wireless Networks、Wireless Personal Communications、计算机学报、软件学报、通信学报等。
 
@@ -113,13 +113,12 @@ Email: <A HREF="mailto:zfkuangcn@csuft.edu.cn">zfkuangcn@csuft.edu.cn</A><br>
 <li> 1. Zhufang Kuang, Linfeng Li, Jie Gao, Lian Zhao, Anfeng Liu.Partial Offloading Scheduling and Power Allocation for Mobile Edge Computing Systems. IEEE Internet of Things Journal,2019, 6(4): 6774-6785.  IF: 9.515，1区，物联网领域顶级期刊</li>
 <li>2. Zhufang Kuang, Gang Liu, Gongqiang Li, Xiaoheng Deng.Energy Efficient Resource Allocation Algorithm in Energy Harvesting-Based D2D Heterogeneous Networks. IEEE Internet of Things Journal,2019,6(1): 557-567, IF: 9.515，1区，物联网领域顶级期刊</li>
 <li>3. Zhufang Kuang, Zhigang Chen, Jianping Pan, Dawood Sajjadi.Joint optimization of spectrum access and power allocation in uplink OFDMA CR-VANETs. Wireless Networks,2019, 25(1): 1-11.  CCF C 类期刊</li>
-<li>4. Linfeng Li, Zhufang Kuang, Anfeng Liu.Energy Efficient and Low Delay Partial Offloading Scheduling and Power Allocation for MEC. ICC 2019: 1-6.   CCF C 类会议</li>
+<li>4. Linfeng Li, Zhufang Kuang, Anfeng Liu.Energy Efficient and Low Delay Partial Offloading Scheduling and Power Allocation for MEC. ICC 2019: 1-6.  （通信作者） CCF C 类会议</li>
 <li>5.  ZhuFang Kuang, ZhiGang Chen, GuoJun Wang and Hui Liu. A Load-balanced Multicast Routing Algorithm using Diversity Rate in CWMNs[J].Wireless Personal Communications,2017,96(3):4399-4425.</li>
 <li>6.  Zhufang Kuang, Zhigang Chen.  A high reliability and low latency routing algorithm in cognitive wireless mesh networks [J]. International Journal of Communication Networks and Distributed Systems. 2017,18(1):58-82.</li>
 <li>7.  Zhufang Kuang, Gongqiang Li, Junshan Tan,Zhigang Chen. High throughput and acceptance ratio multipath routing algorithm in cognitive wireless mesh networks[J]. Future Internet 2017, 9(4):1-16. 91.</li>
 <li> 8. Zhufang Kuang, Guojun Wang, Zhigang Chen, Hui Liu. A distributed resource conservation multicast and spectrum allocation algorithm in cognitive wireless mesh networks [J] International Journal of Embedded Systems.2014,6(2):198-206.</li>
-<li>9. Zhigang Chen, Zhufang Kuang, Yiqing Yang, et al.Distributed routing and spectrum allocation algorithm with cooperation in cognitive wireless mesh networks[J]. International Journal of Distributed Sensor Networks. Volume 2012 (2012), Article ID 781682
-</li>
+<li>9. Zhigang Chen, Zhufang Kuang, Yiqing Yang, et al.Distributed routing and spectrum allocation algorithm with cooperation in cognitive wireless mesh networks[J]. International Journal of Distributed Sensor Networks. Volume 2012 (2012), Article ID 781682 （通信作者） </li>
 <li>10. ZhufangKuang, ZhiGang Chen, Ming Zhao. A QoS Constraints Distributed Multicast Routing Algorithm based on Dynamic Programming in Cognitive Wireless Mesh Networks[J]. Journal of Information and Computational Science. 2011, 8(15): 3729- 3736.</li>
 <br />
 <hr />
@@ -174,7 +173,7 @@ Email: <A HREF="mailto:zfkuangcn@csuft.edu.cn">zfkuangcn@csuft.edu.cn</A><br>
 <li>4. 2018年获中南林业科技大学“树人学者”教学名师荣誉称号 </li>
 <li>5. 2017年获中南林业科技大学“树人学者”科研新秀荣誉称号 </li>
 <li>6. 2015年获中南林业科技大学教学成果二等奖，成果名称：“电气信息类创新人才培养体系的研究与实践”，P5 </li>
-<li>7. 2015年获长沙市自然科学优秀学术成果一等奖，成果名称：“认知无线Mesh网络中满足QoS的高吞吐量安全路由协议”，P1,评奖单位：长沙市科技协会，长沙市人力资源与社会保障局 </li>
+<li>7. 2015年获长沙市自然科学优秀学术成果一等奖，成果名称：“认知无线Mesh网络中满足QoS的高吞吐量安全路由协议”，P1，评奖单位：长沙市科技协会，长沙市人力资源与社会保障局 </li>
 <li>8. 2013年指导罗明（移动自组织网络路由协议性能研究）获中南林业科技大学校级优秀毕业设计 </li>
 <li>9. 2017年指导郝攀刚（冰冻灾害动态监测软件设计与开发）获中南林业科技大学校级优秀毕业设计 </li>
 <li>10. 2019年指导舒亮（基于Hadoop的lncRNA-蛋白质相互作用预测研究）获中南林业科技大学校级优秀毕业设计 </li>
